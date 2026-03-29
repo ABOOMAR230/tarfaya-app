@@ -7,7 +7,7 @@ import urllib.parse
 
 # --- إعدادات هامة جداً ---
 # استبدل الأصفار برقم موبايلك (يبدأ بـ 20) لاستقبال الطلبات عليه
-MY_PHONE_NUMBER = "201026410452" 
+MY_PHONE_NUMBER = "201110809909" 
 
 st.set_page_config(page_title="تطبيق كسح الطرفاية", layout="centered")
 
